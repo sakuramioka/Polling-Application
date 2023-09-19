@@ -1,0 +1,10 @@
+{
+     "user": "root",
+     "password": "vnps117d",
+     "host": "localhost",
+     "database": "sample_db",
+     "posts": [
+          "Example_post_1",
+          "Example_post_2"
+     ]
+}
